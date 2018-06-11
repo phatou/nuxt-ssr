@@ -1,6 +1,7 @@
 # nuxt-ssr
 
 > Nuxt.js project
+> Based on : https://www.youtube.com/watch?v=ZYUWsjUxxUQ&t=1s
 
 ## Build Setup
 
